@@ -1,0 +1,2 @@
+chmod +x hardening_script.sh
+sudo ./hardening_script.sh
